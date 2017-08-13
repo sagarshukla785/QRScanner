@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR CODE READER</string>
+    <string name="NotConnected">NotConnected</string>
+    <string name="Generate">Generate</string>
+    <string name="Connected">Connected</string>
+    <string name="Disconnected">Disconnected</string>
+</resources>
